@@ -8,6 +8,8 @@ The project provides a powerful, offline-first AI legal assistant that functions
 
 With Courtroom Copilot, self-represented litigants can load and query legal materials, draft responses, simulate counterarguments, and organize their cases, all while maintaining privacy and security through a completely offline experience.
 
+**For a concise project overview for presentations and advocacy, see our [Project Summary](./PROJECT_SUMMARY.md).**
+
 ## Key Features
 
 - **Fully Offline Operation**: Runs entirely on local hardware with no internet requirements
@@ -36,6 +38,15 @@ To get started:
 1. Read our [Charter](/GOVERNANCE/CHARTER.md) to understand our mission and principles
 2. Check the [Getting Started Guide](/DOCS/GETTING_STARTED.md) for installation instructions
 3. Review our [Contributor Pledge](/GOVERNANCE/PLEDGES/CONTRIBUTOR_PLEDGE.md) if you'd like to contribute
+
+## For Potential Partners and Supporters
+
+If you're considering supporting or partnering with Courtroom Copilot:
+
+1. Review our [Project Summary](./PROJECT_SUMMARY.md) for a concise overview
+2. See our [Donations Guide](/COMMUNITY/DONATIONS_GUIDE.md) for support options
+3. Check our [Milestones](/ROADMAP/MILESTONES.md) to understand our development timeline
+4. Contact the project team via GitHub Discussions for partnership inquiries
 
 ## Project Vision
 
